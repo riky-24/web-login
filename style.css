@@ -1,0 +1,17 @@
+.signin {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+  background-color: rgb(255, 205, 111);
+  border-radius: 10px;
+}
+body {
+  background-image: url(img/br.jpg);
+}
+
+.form-control {
+  border-radius: 16px;
+}
